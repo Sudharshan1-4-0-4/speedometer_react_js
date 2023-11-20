@@ -1,0 +1,38 @@
+/* Write your CSS here */
+.background {
+  background-color: black;
+  display: flex;
+  padding: 50px;
+  justify-content: center;
+  text-align: center;
+}
+.heading {
+  color: white;
+  text-align: center;
+}
+.head {
+  color: white;
+}
+.image {
+  height: 300px;
+  width: 300px;
+}
+.btn-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+.btn1 {
+  background-color: blue;
+  padding: 15px;
+  margin-right: 10px;
+  color: white;
+}
+.btn2 {
+  background-color: transparent;
+  padding: 15px;
+  color: white;
+}
+.para {
+  color: white;
+}
